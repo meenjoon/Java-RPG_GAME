@@ -5,7 +5,7 @@
                              
                              
                              
-# [블로그 설명](https://bj-turtle.tistory.com/2)
+# [Click ➔ 블로그 설명](https://bj-turtle.tistory.com/2)
 
 [게임 설명]
 신찬식의 도플갱어 죽이기
